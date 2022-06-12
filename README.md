@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shyamprakash997
+- 👋 Hi, I’m @Shyam-prakash-s
 - 👀 I’m interested in startups 
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on startup mission 
